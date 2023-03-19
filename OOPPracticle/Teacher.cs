@@ -9,10 +9,11 @@ namespace OOPPracticle
     internal class Teacher:People
     {
 
-        private int salary;
-        List<string> lessons = new List<string>();
+        public int salary { get; set; }
 
-        public Teacher(string name, int age, string birthday, string userJob,int salary, List<string>lessons) : base(name, age, birthday, userJob)
+        List<Lesson> lessons = new List<Lesson>();
+
+        public Teacher(string name, int age, string birthday, string userJob,int salary, List<Lesson>lessons) : base(name, age, birthday, userJob)
         {
             this.salary = salary;
             this.lessons = lessons;
