@@ -1,0 +1,8 @@
+D:\Asiye\BilgeAdamYP\OOPPracticleDemo\OOPPracticle\bin\Debug\OOPPracticle.exe.config
+D:\Asiye\BilgeAdamYP\OOPPracticleDemo\OOPPracticle\bin\Debug\OOPPracticle.exe
+D:\Asiye\BilgeAdamYP\OOPPracticleDemo\OOPPracticle\bin\Debug\OOPPracticle.pdb
+D:\Asiye\BilgeAdamYP\OOPPracticleDemo\OOPPracticle\obj\Debug\OOPPracticle.csproj.AssemblyReference.cache
+D:\Asiye\BilgeAdamYP\OOPPracticleDemo\OOPPracticle\obj\Debug\OOPPracticle.csproj.SuggestedBindingRedirects.cache
+D:\Asiye\BilgeAdamYP\OOPPracticleDemo\OOPPracticle\obj\Debug\OOPPracticle.csproj.CoreCompileInputs.cache
+D:\Asiye\BilgeAdamYP\OOPPracticleDemo\OOPPracticle\obj\Debug\OOPPracticle.exe
+D:\Asiye\BilgeAdamYP\OOPPracticleDemo\OOPPracticle\obj\Debug\OOPPracticle.pdb

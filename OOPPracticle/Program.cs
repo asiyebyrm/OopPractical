@@ -10,6 +10,8 @@ namespace OOPPracticle
     {
         static void Main(string[] args)
         {
+            Student asiye = new Student("Ela", 25, "24.02.2222", "Student", 22, "numeric part");
+            asiye.StudentInfo();
         }
     }
 }

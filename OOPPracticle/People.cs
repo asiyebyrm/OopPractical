@@ -11,6 +11,14 @@ namespace OOPPracticle
         private string name;
         private int age;
         private string birthday;
-        private string job;
+        private string userJob;
+
+        public People(string name, int age, string birthday, string userJob)
+        {
+            this.name = name;
+            this.age = age;
+            this.birthday = birthday;
+            this.userJob = userJob;
+        }
     }
 }
